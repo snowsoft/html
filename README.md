@@ -28,7 +28,7 @@
 
 To install through composer, run the following command from terminal:
 
-    composer require "laravie/html"
+    composer require "snowsoft/html"
 
 Next, add your new provider to the `providers` array of `config/app.php`:
 
